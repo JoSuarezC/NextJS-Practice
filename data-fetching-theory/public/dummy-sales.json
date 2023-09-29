@@ -1,0 +1,12 @@
+{
+  "sales": {
+    "s1": {
+      "username": "Max",
+      "volume": 100
+    },
+    "s2": {
+      "username": "Josue",
+      "volume": 50
+    }
+  }
+}
