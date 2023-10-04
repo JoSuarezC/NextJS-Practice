@@ -1,21 +1,19 @@
-import Hero from '@/components/Hero';
-import CustomButton from '@/components/CustomButton';
-import Footer from '@/components/Footer';
-import NavBar from '@/components/NavBar';
-import Searchbar from '@/components/Searchbar';
-import CustomFilter from '@/components/CustomFilter';
-import SearchManufacturer from '@/components/SearchManufacturer';
-import CarCard from '@/components/CarCard';
-import ShowMore from '@/components/ShowMore';
+import CarCard from "./CarCard";
+import CustomButton from "./CustomButton";
+import CustomFilter from "./CustomFilter";
+import Footer from "./Footer";
+import NavBar from "./Navbar";
+import ShowMore from "./ShowMore";
+import SearchBar from "./Searchbar";
+import Hero from "./Hero";
 
 export {
   Hero,
+  CarCard,
   CustomButton,
+  CustomFilter,
   Footer,
   NavBar,
-  Searchbar,
-  CustomFilter,
-  SearchManufacturer,
-  CarCard,
   ShowMore,
+  SearchBar,
 };
